@@ -65,3 +65,7 @@ Utilize `visualization.py` to visualize the results of the models, including per
 ## Credits
 
 This project was created by Evan Lu (elu14), Siming Feng (sfeng22), and Ze Hua Chen (zchen186)
+
+## Note
+
+This repository is copied over from the original group repository: https://github.com/evwlu/eeg-denoiser
